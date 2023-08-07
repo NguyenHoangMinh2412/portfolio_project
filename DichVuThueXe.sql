@@ -1,6 +1,6 @@
 Create DataBase DichVuXe
 Go
-Use DeThiThu
+Use DichVuXe
 Go
 Create Table NHACUNGCAP
 (
